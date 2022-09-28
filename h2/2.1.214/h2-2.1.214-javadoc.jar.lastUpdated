@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jul 24 17:20:54 IST 2022
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1658663454432
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.h2database\:h2\:jar\:javadoc\:2.1.214 from/to central (https\://repo.maven.apache.org/maven2)\: repo.maven.apache.org
